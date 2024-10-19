@@ -3,7 +3,7 @@ name: Bug template
 about: prac2
 title: ''
 labels: ''
-assignees: eunjju2, hyunhyeon, JOEIH
+assignees: 
 
 ---
 
