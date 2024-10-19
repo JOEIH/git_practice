@@ -2,8 +2,8 @@
 name: PR template
 about: prac
 title: ''
-labels: ''
-assignees: eunjju2, hyunhyeon, JOEIH
+labels: Feat
+assignees: 
 
 ---
 

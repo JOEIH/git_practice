@@ -2,7 +2,7 @@
 name: Bug template
 about: prac2
 title: ''
-labels: ''
+labels: bug
 assignees: 
 
 ---
