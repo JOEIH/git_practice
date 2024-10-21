@@ -9,7 +9,7 @@ function App() {
       <div>
         <button style={{backgroundColor: 'green'}} onClick={() => setCount((prev) => prev + 1)}>+1</button>
         <button onClick={() => setCount((prev) => prev - 1)}>-1</button>
-        <div>{count}</div>
+        <h2>{count}</h2>
       </div>
     </>
   )
